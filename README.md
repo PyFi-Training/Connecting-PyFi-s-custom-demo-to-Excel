@@ -2,8 +2,9 @@
 
 This script converts labeled transaction data from CSV into a multi-sheet Excel report with summaries and charts.
 
-It **builds on PyFi’s Python demo**, extending it into a full reporting pipeline that exports a polished Excel workbook with embedded visualizations and summary statistics.
+It **builds on PyFi’s new AI for Finance demo**, extending it into a full reporting pipeline that exports a polished Excel workbook with embedded visualizations and summary statistics.
 
+To learn more about PyFi's Python <> OpenAI integration, and register for the next live demo, enroll here >> go.pyfi.com
 ---
 
 ## Background
