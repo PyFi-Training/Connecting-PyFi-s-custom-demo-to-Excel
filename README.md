@@ -12,7 +12,8 @@ It builds on PyFi’s new [AI for Finance demo](go.pyfi.com), extending it into 
 
 ## Background
 
-PyFi’s Python demo focuses on extracting and labeling financial transaction data.  
+PyFi’s AI for Finance demo executes logic technically impossible in Excel, injects intelligence into the workflow via the OpenAI API, and automates a multi-hour financial analysis, in just a few seconds.
+
 This project takes the **output of that demo** and produces a stakeholder-ready Excel report:
 
 - Raw labeled data
